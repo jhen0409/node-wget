@@ -5,6 +5,9 @@ A download tool, now supporting http/https resource and http/https proxy, writte
 # Installing
 ```
 npm install wget
+
+# install this fork
+npm install wget@git+https://git@github.com/jhen0409/node-wget.git
 ```
 
 # Usage
